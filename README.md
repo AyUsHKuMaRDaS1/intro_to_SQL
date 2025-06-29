@@ -15,5 +15,5 @@
 5. [**As & With**](https://github.com/AyUsHKuMaRDaS1/intro_to_SQL/blob/main/05-exercise-as-with.ipynb)  
    Organize your query for better readability. This becomes especially important for complex queries.
 
-6. [**Joining Data**](https://github.com/AyUsHKuMaRDaS1/intro_to_SQL/blob/main/06-joining-data.ipynb)  
+6. [**Joining Data**]((https://github.com/AyUsHKuMaRDaS1/intro_to_SQL/blob/main/06-exercise-joining-data.ipynb))  
    Combine data sources. Critical for almost all real-world data problems.
